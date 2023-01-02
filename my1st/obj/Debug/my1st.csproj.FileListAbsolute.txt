@@ -1,0 +1,9 @@
+C:\Users\iyair\iCloudDrive\תכנות מונחה עצמים\C# for OOP\my prj 1 With CLASSES\my1st\bin\Debug\my1st.exe
+C:\Users\iyair\iCloudDrive\תכנות מונחה עצמים\C# for OOP\my prj 1 With CLASSES\my1st\bin\Debug\my1st.pdb
+C:\Users\iyair\iCloudDrive\תכנות מונחה עצמים\C# for OOP\my prj 1 With CLASSES\my1st\obj\Debug\my1st.csproj.AssemblyReference.cache
+C:\Users\iyair\iCloudDrive\תכנות מונחה עצמים\C# for OOP\my prj 1 With CLASSES\my1st\obj\Debug\my1st.Form1.resources
+C:\Users\iyair\iCloudDrive\תכנות מונחה עצמים\C# for OOP\my prj 1 With CLASSES\my1st\obj\Debug\my1st.Properties.Resources.resources
+C:\Users\iyair\iCloudDrive\תכנות מונחה עצמים\C# for OOP\my prj 1 With CLASSES\my1st\obj\Debug\my1st.csproj.GenerateResource.cache
+C:\Users\iyair\iCloudDrive\תכנות מונחה עצמים\C# for OOP\my prj 1 With CLASSES\my1st\obj\Debug\my1st.csproj.CoreCompileInputs.cache
+C:\Users\iyair\iCloudDrive\תכנות מונחה עצמים\C# for OOP\my prj 1 With CLASSES\my1st\obj\Debug\my1st.exe
+C:\Users\iyair\iCloudDrive\תכנות מונחה עצמים\C# for OOP\my prj 1 With CLASSES\my1st\obj\Debug\my1st.pdb
